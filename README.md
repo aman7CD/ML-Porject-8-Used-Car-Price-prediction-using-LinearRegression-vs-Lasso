@@ -1,2 +1,2 @@
 # ML-Porject-8-[Used Car Price prediction using LinearRegression vs Lasso]
-Comapred the LinearRegression and LassoRegression to predict prices of used cars ,and found out that LassoRegression model performed better than simple LinearRegression because of the regularization.
+Comapred the LinearRegression and LassoRegression to predict prices of used cars ,and found out that LassoRegression model performed better than simple LinearRegression because of the regularization.Used the scatter functon of matplotlib library to plot and visualize the relationship between Actual Selling Prices and Predicted Prices.
